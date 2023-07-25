@@ -1,0 +1,14 @@
+#player {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.food {
+    position: absolute;
+}
+body{
+    background-color: 
